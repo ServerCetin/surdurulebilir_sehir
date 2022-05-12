@@ -14,11 +14,11 @@ Mehmet Sait KARLIDAĞ...
 
 ...
 
-## _Uygulamamızın Yolu:_
+## _Mobil Uygulamamızın Yolu:_
 
 ...
 
-## _Uygulamamızın Kısa Açıklaması:_
+## _Uygulamamızın Kısa Bilgilendirmesi:_
 
 ...
 
