@@ -29,7 +29,6 @@ Uygulamayı flutter çerçevesinde yazıldı. Sadece prototip için geliştirild
 
 ![N|Solid](materyaller/proje_daha_ayrintili_portfolyo/iPSAPP_1.jpg)
 ![N|Solid](materyaller/proje_daha_ayrintili_portfolyo/iPSAPP_2.jpg)
-![N|Solid](materyaller/proje_daha_ayrintili_portfolyo/iPSAPP_3.jpg)
 
 ## _Ayrıntılı Senaryo_
 
@@ -39,6 +38,8 @@ Uygulamayı flutter çerçevesinde yazıldı. Sadece prototip için geliştirild
 ![N|Solid](ayrintili_senaryo/ayrintili_senaryo_4.jpg)
 ![N|Solid](ayrintili_senaryo/ayrintili_senaryo_5.jpg)
 ![N|Solid](ayrintili_senaryo/ayrintili_senaryo_6.jpg)
+![N|Solid](ayrintili_senaryo/ayrintili_senaryo_7.jpg)
+![N|Solid](ayrintili_senaryo/ayrintili_senaryo_8.jpg)
 
 ## _Kullandığımız Kaynaklar_
 
@@ -79,3 +80,4 @@ https://data.ibb.gov.tr/dataset/itfai-istatistikler-yangin
 https://data.ibb.gov.tr/dataset/itfai-istatistikler
 https://www.iski.istanbul/web/tr-TR/ariza-kesinti
 https://twitter.com/profdemirtas/status/1381197600871739394
+https://www.memurlar.net/common/news/documents/743111/4c29aaee0f2c46ea9b0bc8a286c7ce08.pdf
