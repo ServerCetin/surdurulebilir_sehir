@@ -20,15 +20,25 @@ Mehmet Sait KARLIDAĞ: (YTÜ İstatistik Hazırlık)
 
 Uygulamayı flutter çerçevesinde yazıldı. Sadece prototip için geliştirildi. Tüm özellikleri ve fonksiyonları barındırmamakta. Uygulama içi resimleri, apk ve kaynak kodları app dosyası içerisinde görebilirsiniz.
 
-## _Proje Şablonu_
-
-![N|Solid](materyaller/sablon.png)
-
-
 ## _Daha Ayrıntılı Portfolyo_
 
 ![N|Solid](materyaller/proje_daha_ayrintili_portfolyo/iPSAPP_1.jpg)
 ![N|Solid](materyaller/proje_daha_ayrintili_portfolyo/iPSAPP_2.jpg)
+
+## _Prototip_
+
+![N|Solid](app/uygulama_resimleri/1_giris.jpeg)
+![N|Solid](app/uygulama_resimleri/2_basarili_giris.jpeg)
+![N|Solid](app/uygulama_resimleri/3_ana_sayfa.jpeg)
+![N|Solid](app/uygulama_resimleri/4_dogrulama.jpeg)
+![N|Solid](app/uygulama_resimleri/5_etkinlik_paylasma.jpeg)
+![N|Solid](app/uygulama_resimleri/6_etkinlik_olusturma_sayfası.jpeg)
+![N|Solid](app/uygulama_resimleri/7_katilimci_listesi.jpeg)
+![N|Solid](app/uygulama_resimleri/8_kamera_ve_kod_ile_onaylatma.jpeg)
+![N|Solid](app/uygulama_resimleri/9_anket.jpeg)
+![N|Solid](app/uygulama_resimleri/10_hastane.jpeg)
+![N|Solid](app/uygulama_resimleri/11_etkinlikler.jpeg)
+![N|Solid](app/uygulama_resimleri/12_etkinlik_secenekler.jpeg)
 
 ## _Ayrıntılı Senaryo_
 
