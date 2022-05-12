@@ -1,6 +1,6 @@
 # surdurulebilir_sehir
 
-**Biz Kimiz?**
+## _Biz Kimiz?_
 
 Server ÇETİN: (YTÜ İstatistik Hazırlık, İGÜ Bilgisayar  Programcılığı Mezun) [LinkedIn](https://www.linkedin.com/in/servercetin/), [Github](https://github.com/ServerCetin)
 
@@ -10,13 +10,21 @@ Oğuzhan ÖKSÜZ...
 
 Mehmet Sait KARLIDAĞ...
 
-**Sunumuzun Bağlantısı:**
+## _Sunumuzun Bağlantısı:_
 
-**Uygulamamızın Yolu:**
+...
 
-**Uygulamamızın Kısa Açıklaması:**
+## _Uygulamamızın Yolu:_
 
-**Diğer Klasör ve Dosyaların Kısa Açıklaması:**
+...
+
+## _Uygulamamızın Kısa Açıklaması:_
+
+...
+
+## _Diğer Klasör ve Dosyaların Kısa Açıklaması:_
+
+...
 
 ## _Proje Şablonu_
 
