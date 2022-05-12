@@ -32,14 +32,14 @@ Uygulamayı flutter çerçevesinde yazıldı. Sadece prototip için geliştirild
 
 ## _Ayrıntılı Senaryo_
 
-![N|Solid](ayrintili_senaryo/ayrintili_senaryo_1.jpg)
-![N|Solid](ayrintili_senaryo/ayrintili_senaryo_2.jpg)
-![N|Solid](ayrintili_senaryo/ayrintili_senaryo_3.jpg)
-![N|Solid](ayrintili_senaryo/ayrintili_senaryo_4.jpg)
-![N|Solid](ayrintili_senaryo/ayrintili_senaryo_5.jpg)
-![N|Solid](ayrintili_senaryo/ayrintili_senaryo_6.jpg)
-![N|Solid](ayrintili_senaryo/ayrintili_senaryo_7.jpg)
-![N|Solid](ayrintili_senaryo/ayrintili_senaryo_8.jpg)
+![N|Solid](ayrintili_senaryo/ayrintili_senaryo-1.jpg)
+![N|Solid](ayrintili_senaryo/ayrintili_senaryo-2.jpg)
+![N|Solid](ayrintili_senaryo/ayrintili_senaryo-3.jpg)
+![N|Solid](ayrintili_senaryo/ayrintili_senaryo-4.jpg)
+![N|Solid](ayrintili_senaryo/ayrintili_senaryo-5.jpg)
+![N|Solid](ayrintili_senaryo/ayrintili_senaryo-6.jpg)
+![N|Solid](ayrintili_senaryo/ayrintili_senaryo-7.jpg)
+![N|Solid](ayrintili_senaryo/ayrintili_senaryo-8.jpg)
 
 ## _Kullandığımız Kaynaklar_
 
