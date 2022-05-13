@@ -2,11 +2,11 @@
 
 Server ÇETİN: (YTÜ İstatistik Hazırlık, İGÜ Bilgisayar  Programcılığı Mezun) [LinkedIn](https://www.linkedin.com/in/servercetin/), [Github](https://github.com/ServerCetin)
 
-Onur YILMAZ: (İGÜ Elektronik Mezun)
+Onur YILMAZ: (İGÜ Elektronik Mezun) [Github](https://github.com/10urY)
 
-Oğuzhan ÖKSÜZ: (YTÜ Makine Mühendisliği Hazırlık)
+Oğuzhan ÖKSÜZ: (YTÜ Makine Mühendisliği Hazırlık) [Github](https://github.com/OguzhanOksuz)
 
-Mehmet Sait KARLIDAĞ: (YTÜ İstatistik Hazırlık)
+Mehmet Sait KARLIDAĞ: (YTÜ İstatistik Hazırlık) [LinkedIn](https://www.linkedin.com/in/mehmet-sait-karl%C4%B1da%C4%9F-80b8a0196), [Github](https://github.com/Welat8621)
 
 ## _Sunumuzun Bağlantısı:_
 
