@@ -10,7 +10,7 @@ Mehmet Sait KARLIDAĞ: (YTÜ İstatistik Hazırlık)
 
 ## _Sunumuzun Bağlantısı:_
 
-/materyaller/Sunu/sunu.pptx
+/materyaller/Sunu/Sunu.pptx
 
 ## _Mobil Uygulamamızın Yolu:_
 
